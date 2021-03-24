@@ -1,4 +1,3 @@
-
 const cat = {
     name : ['Mittens', 'Louis', 'Pukey'],
     desire : ['I am hungry.', 'I threw up on your bed.' , 'I want to cuddle.'],
@@ -35,4 +34,7 @@ for (item in cat){
     };
 
     console.log(formatCat(catNeeds));
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7a2bdf4b5aa46d765345e56d481913fbcf68a720
